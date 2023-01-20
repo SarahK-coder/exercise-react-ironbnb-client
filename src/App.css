@@ -1,3 +1,30 @@
 .App {
   text-align: center;
 }
+
+.card {
+  background-color: #555;
+}
+
+.orange {
+  border: 1px solid #ff9900;
+}
+
+.App a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 1rem;
+  color: #0088ff;
+}
+
+.App a.active {
+  color: #ffa500;
+}
+
+.App a.hover {
+  color: #fff;
+}
+
+a.navbar-brand {
+  color: #000 !important;
+}
